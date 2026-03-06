@@ -1,2 +1,10 @@
-# student_ai_usage_model
-this is a Data Science project using python and its libraries like numpy,pandas,matplotlib,seaborn,etc. we build a machine learning model to predict how much a new feature of ai or a new ai can succeed based on the patterns observed from the previous data of students ai usage from 2024 to 2025 of all kinds of students like undergraduates ,etc......
+AI usage Prediction Among Students
+
+This project analyzes AI usage patterns among students
+such as high school, undergraduate, and postgraduate users.
+steps completed:
+ - Data preprocessing
+ - missing value handling
+ - Data visualization
+Next step:
+ - Machine learning model training
